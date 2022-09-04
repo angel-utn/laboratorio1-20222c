@@ -19,7 +19,7 @@ int main(){
     cin >> edad3;
 
     if(edad1 >= 18){
-        cantidad ++;
+        cantidad ++; /// cantidad = cantidad + 1; /// cantidad += 1;
     }
 
     if(edad2 >= 18){
