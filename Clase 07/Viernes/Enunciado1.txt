@@ -1,0 +1,34 @@
+Una pizzería posee la información de los pedidos recibidos el día de ayer en sus 5 sucursales. Por cada pedido se registró:
+- Número de sucursal (entero)
+- Número de pedido (entero)
+- Número de tipo de pizza (1 a 35)
+- Cantidad (entero)
+- Envío ('S' - Sí, 'N' - No)
+- Importe del pedido (real)
+
+La información se encuentra agrupada por sucursal. Puede haber una cantidad diferente de pedidos por sucursal. Para indicar el fin de la carga de datos de una sucursal se ingresa un número de pedido igual a cero.
+
+Aclaraciones:
+- Todas las sucursales registraron al menos un pedido.
+- Las pizzas cuyo número se encuentran entre el 1 y el 10 son vegetarianas.
+- Todas las pizzas de un pedido son del mismo tipo.
+
+Se pide calcular e informar:
+A) Por cada sucursal, el total recaudado en el día.
+B) La cantidad de sucursales que no hicieron ningún envío a domicilio.
+C) El número de pedido en el que se hayan enviado más cantidad de pizzas a domicilio. Indicar también la sucursal.
+D) El porcentaje de pedidos de pizzas vegetarianas en relación a la cantidad total de pedidos.
+
+(cantPedidosVeg/cantPedidosTotales)*100;
+
+cantPedidosVeg*100/cantPedidosTotales
+
+
+
+
+
+
+
+
+
+
