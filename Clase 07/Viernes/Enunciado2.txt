@@ -1,0 +1,6 @@
+El dueño de la pizzería ha quedado muy satisfecho con el programa. Solamente ha pedido una serie de cambios. Quiere modificar levemente como carga los datos:
+
+- Quiere no tener la limitación de que sean exactamente 5 sucursales. Para indicar que no hay más sucursales se ingresa un número de sucursal igual a 0.
+- Quiere no tener que ingresar un 0 para cambiar entre sucursales.
+
+La información se encuentra agrupada de la misma manera que el programa anterior y debe reportar la misma información.
