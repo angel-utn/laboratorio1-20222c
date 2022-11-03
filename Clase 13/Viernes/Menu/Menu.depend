@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1667003247 source:c:\users\facu\desktop\projects\menu\main.cpp
+	<iostream>
+	"rlutil.h"
+
+1667002097 c:\users\facu\desktop\projects\menu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+

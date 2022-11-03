@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667000246 source:c:\users\facu\desktop\projects\aleatorios\main.cpp
+	<iostream>
+	<ctime>
+	"aleatorio.h"
+
+1667000783 c:\users\facu\desktop\projects\aleatorios\aleatorio.h
+
+1667000783 source:c:\users\facu\desktop\projects\aleatorios\aleatorio.cpp
+	<iostream>
+	"aleatorio.h"
+
